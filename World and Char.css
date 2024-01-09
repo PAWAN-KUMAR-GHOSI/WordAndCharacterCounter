@@ -1,0 +1,20 @@
+body{
+    padding: 50px 100px;
+}
+h1{
+    text-align: center;
+    padding: 10px;
+    margin: 0px;
+    background-color: skyblue;
+}
+#textbox{
+    width: 99.3%;
+}
+p{
+    text-align: center;
+    background-color: skyblue;
+    margin: 0px;
+    padding: 20px;
+    font-size: 30px;
+    font-weight: bold;
+}
